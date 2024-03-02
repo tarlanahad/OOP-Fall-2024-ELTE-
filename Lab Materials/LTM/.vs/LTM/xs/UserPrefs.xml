@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{0EFFAD43-B4E5-442C-A792-4FA952169E22}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LTM/ltm1.txt">
+    <Files>
+      <File FileName="LTM/ltm1.txt" Line="6" Column="9" IsPinned="True" />
+      <File FileName="LTM/ltm2.txt" Line="1" Column="2" IsPinned="True" />
+      <File FileName="LTM/Program.cs" Line="41" Column="38" />
+      <File FileName="LTM/LTM.cs" Line="75" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LTM" expanded="True">
+            <Node name="LTM">
+              <Node name="ltm1.txt" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LTM PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

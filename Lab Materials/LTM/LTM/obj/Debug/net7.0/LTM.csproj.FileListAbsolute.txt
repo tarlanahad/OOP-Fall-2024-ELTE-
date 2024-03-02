@@ -1,0 +1,51 @@
+/Users/tarlanahadli/Projects/LTM/LTM/bin/Debug/net7.0/LTM
+/Users/tarlanahadli/Projects/LTM/LTM/bin/Debug/net7.0/LTM.deps.json
+/Users/tarlanahadli/Projects/LTM/LTM/bin/Debug/net7.0/LTM.runtimeconfig.json
+/Users/tarlanahadli/Projects/LTM/LTM/bin/Debug/net7.0/LTM.dll
+/Users/tarlanahadli/Projects/LTM/LTM/bin/Debug/net7.0/LTM.pdb
+/Users/tarlanahadli/Projects/LTM/LTM/obj/Debug/net7.0/LTM.csproj.AssemblyReference.cache
+/Users/tarlanahadli/Projects/LTM/LTM/obj/Debug/net7.0/LTM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarlanahadli/Projects/LTM/LTM/obj/Debug/net7.0/LTM.AssemblyInfoInputs.cache
+/Users/tarlanahadli/Projects/LTM/LTM/obj/Debug/net7.0/LTM.AssemblyInfo.cs
+/Users/tarlanahadli/Projects/LTM/LTM/obj/Debug/net7.0/LTM.csproj.CoreCompileInputs.cache
+/Users/tarlanahadli/Projects/LTM/LTM/obj/Debug/net7.0/LTM.dll
+/Users/tarlanahadli/Projects/LTM/LTM/obj/Debug/net7.0/refint/LTM.dll
+/Users/tarlanahadli/Projects/LTM/LTM/obj/Debug/net7.0/LTM.pdb
+/Users/tarlanahadli/Projects/LTM/LTM/obj/Debug/net7.0/LTM.genruntimeconfig.cache
+/Users/tarlanahadli/Projects/LTM/LTM/obj/Debug/net7.0/ref/LTM.dll
+/Users/tarlanahadli/Projects/LTM/LTM/bin/Debug/net7.0/TextFile.dll
+/Users/tarlanahadli/Projects/LTM/LTM/obj/Debug/net7.0/LTM.csproj.CopyComplete
+/Users/tarlanahadli/Documents/Projects/LTM/LTM/obj/Debug/net7.0/LTM.csproj.AssemblyReference.cache
+/Users/tarlanahadli/Documents/Projects/LTM/LTM/obj/Debug/net7.0/LTM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarlanahadli/Documents/Projects/LTM/LTM/obj/Debug/net7.0/LTM.AssemblyInfoInputs.cache
+/Users/tarlanahadli/Documents/Projects/LTM/LTM/obj/Debug/net7.0/LTM.AssemblyInfo.cs
+/Users/tarlanahadli/Documents/Projects/LTM/LTM/obj/Debug/net7.0/LTM.csproj.CoreCompileInputs.cache
+/Users/tarlanahadli/Documents/Projects/LTM/LTM/obj/Debug/net7.0/LTM.dll
+/Users/tarlanahadli/Documents/Projects/LTM/LTM/obj/Debug/net7.0/refint/LTM.dll
+/Users/tarlanahadli/Documents/Projects/LTM/LTM/obj/Debug/net7.0/LTM.pdb
+/Users/tarlanahadli/Documents/Projects/LTM/LTM/bin/Debug/net7.0/LTM
+/Users/tarlanahadli/Documents/Projects/LTM/LTM/bin/Debug/net7.0/LTM.deps.json
+/Users/tarlanahadli/Documents/Projects/LTM/LTM/bin/Debug/net7.0/LTM.runtimeconfig.json
+/Users/tarlanahadli/Documents/Projects/LTM/LTM/bin/Debug/net7.0/LTM.dll
+/Users/tarlanahadli/Documents/Projects/LTM/LTM/bin/Debug/net7.0/LTM.pdb
+/Users/tarlanahadli/Documents/Projects/LTM/LTM/bin/Debug/net7.0/TextFile.dll
+/Users/tarlanahadli/Documents/Projects/LTM/LTM/obj/Debug/net7.0/LTM.csproj.CopyComplete
+/Users/tarlanahadli/Documents/Projects/LTM/LTM/obj/Debug/net7.0/LTM.genruntimeconfig.cache
+/Users/tarlanahadli/Documents/Projects/LTM/LTM/obj/Debug/net7.0/ref/LTM.dll
+/Users/tarlanahadli/Documents/ELTE/OOP Fall 2024 (ELTE)/Lab Materials/LTM/LTM/obj/Debug/net7.0/LTM.csproj.AssemblyReference.cache
+/Users/tarlanahadli/Documents/ELTE/OOP Fall 2024 (ELTE)/Lab Materials/LTM/LTM/obj/Debug/net7.0/LTM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarlanahadli/Documents/ELTE/OOP Fall 2024 (ELTE)/Lab Materials/LTM/LTM/obj/Debug/net7.0/LTM.AssemblyInfoInputs.cache
+/Users/tarlanahadli/Documents/ELTE/OOP Fall 2024 (ELTE)/Lab Materials/LTM/LTM/obj/Debug/net7.0/LTM.AssemblyInfo.cs
+/Users/tarlanahadli/Documents/ELTE/OOP Fall 2024 (ELTE)/Lab Materials/LTM/LTM/obj/Debug/net7.0/LTM.csproj.CoreCompileInputs.cache
+/Users/tarlanahadli/Documents/ELTE/OOP Fall 2024 (ELTE)/Lab Materials/LTM/LTM/obj/Debug/net7.0/LTM.dll
+/Users/tarlanahadli/Documents/ELTE/OOP Fall 2024 (ELTE)/Lab Materials/LTM/LTM/obj/Debug/net7.0/refint/LTM.dll
+/Users/tarlanahadli/Documents/ELTE/OOP Fall 2024 (ELTE)/Lab Materials/LTM/LTM/obj/Debug/net7.0/LTM.pdb
+/Users/tarlanahadli/Documents/ELTE/OOP Fall 2024 (ELTE)/Lab Materials/LTM/LTM/bin/Debug/net7.0/LTM
+/Users/tarlanahadli/Documents/ELTE/OOP Fall 2024 (ELTE)/Lab Materials/LTM/LTM/bin/Debug/net7.0/LTM.deps.json
+/Users/tarlanahadli/Documents/ELTE/OOP Fall 2024 (ELTE)/Lab Materials/LTM/LTM/bin/Debug/net7.0/LTM.runtimeconfig.json
+/Users/tarlanahadli/Documents/ELTE/OOP Fall 2024 (ELTE)/Lab Materials/LTM/LTM/bin/Debug/net7.0/LTM.dll
+/Users/tarlanahadli/Documents/ELTE/OOP Fall 2024 (ELTE)/Lab Materials/LTM/LTM/bin/Debug/net7.0/LTM.pdb
+/Users/tarlanahadli/Documents/ELTE/OOP Fall 2024 (ELTE)/Lab Materials/LTM/LTM/bin/Debug/net7.0/TextFile.dll
+/Users/tarlanahadli/Documents/ELTE/OOP Fall 2024 (ELTE)/Lab Materials/LTM/LTM/obj/Debug/net7.0/LTM.csproj.CopyComplete
+/Users/tarlanahadli/Documents/ELTE/OOP Fall 2024 (ELTE)/Lab Materials/LTM/LTM/obj/Debug/net7.0/LTM.genruntimeconfig.cache
+/Users/tarlanahadli/Documents/ELTE/OOP Fall 2024 (ELTE)/Lab Materials/LTM/LTM/obj/Debug/net7.0/ref/LTM.dll
